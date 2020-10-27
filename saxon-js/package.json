@@ -1,0 +1,54 @@
+{
+  "_from": "saxon-js@^2.0.2",
+  "_id": "saxon-js@2.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Pfz4EZHoB8/mMoC2SzULm4ESZp+67OiCxoAwmYDwkEVdaiWtbU+ubmo/UXM/EXM9OsIyQ9Vs8NAAPCZuOHkhtA==",
+  "_location": "/saxon-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "saxon-js@^2.0.2",
+    "name": "saxon-js",
+    "escapedName": "saxon-js",
+    "rawSpec": "^2.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.2"
+  },
+  "_requiredBy": [
+    "/xslt3"
+  ],
+  "_resolved": "https://registry.npmjs.org/saxon-js/-/saxon-js-2.0.2.tgz",
+  "_shasum": "92579d793ae6ceb301881e49103f6ad4a26a6ce7",
+  "_spec": "saxon-js@^2.0.2",
+  "_where": "/Users/sbacha/saxonica/node_modules/xslt3",
+  "author": {
+    "name": "Saxonica"
+  },
+  "bugs": {
+    "url": "https://saxonica.plan.io/projects/saxon-js/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "deprecated": false,
+  "description": "Saxon-JS XSLT 3.0 processor: a conformant high-performance implementation of XSLT 3.0 for Node.js",
+  "homepage": "http://www.saxonica.com/saxon-js/",
+  "keywords": [
+    "xslt",
+    "xslt3.0",
+    "xpath3.1",
+    "xpath",
+    "xml",
+    "saxon",
+    "dom",
+    "json",
+    "xsl",
+    "transform"
+  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "main": "SaxonJS2N.js",
+  "name": "saxon-js",
+  "version": "2.0.2"
+}

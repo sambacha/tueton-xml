@@ -1,0 +1,60 @@
+{
+  "_from": "xslt3",
+  "_id": "xslt3@2.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-8rUX1wjiYFiSKFbcBXSiO2AtWB1DsRxv9Uk98TNvnu+Euy0CJnm8xKuCsx6ZtBET7Z/WsK+MFfXpUsQ+kDh0dg==",
+  "_location": "/xslt3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "xslt3",
+    "name": "xslt3",
+    "escapedName": "xslt3",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/xslt3/-/xslt3-2.0.2.tgz",
+  "_shasum": "b12d5d45f71b8ddbed30403eefd5abed035f95f5",
+  "_spec": "xslt3",
+  "_where": "/Users/sbacha/saxonica",
+  "author": {
+    "name": "Saxonica"
+  },
+  "bin": {
+    "xslt3": "xslt3.js"
+  },
+  "bugs": {
+    "url": "https://saxonica.plan.io/projects/saxon-js/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "saxon-js": "^2.0.2"
+  },
+  "deprecated": false,
+  "description": "Saxon-JS XSLT 3.0 processor: command line interface to Saxon-JS",
+  "homepage": "http://www.saxonica.com/saxon-js/",
+  "keywords": [
+    "xslt",
+    "xslt3.0",
+    "xpath3.1",
+    "xpath",
+    "xml",
+    "saxon",
+    "dom",
+    "json",
+    "xsl",
+    "transform",
+    "cli"
+  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "main": "xslt3.js",
+  "name": "xslt3",
+  "version": "2.0.2"
+}
